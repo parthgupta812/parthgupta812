@@ -5,14 +5,9 @@ Full Stack Developer • Building scalable web applications & AI-powered product
 </h3>
 
 <p align="center">
-  <a href="https://github.com/parthgupta812">
-    <img src="https://komarev.com/ghpvc/?username=parthgupta812&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=parthgupta812&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
   <a href="https://github.com/parthgupta812?tab=followers">
     <img src="https://img.shields.io/github/followers/parthgupta812?label=Followers&style=flat" alt="GitHub Followers" />
-  </a>
-  <a href="https://github.com/parthgupta812?tab=repositories">
-    <img src="https://img.shields.io/badge/dynamic/json?label=Public%20Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fparthgupta812&style=flat" alt="Public Repositories" />
   </a>
 </p>
 
@@ -20,25 +15,27 @@ Full Stack Developer • Building scalable web applications & AI-powered product
 
 ## 👨‍💻 About Me
 
-I'm a **Full Stack Developer** who enjoys building practical products, scalable backend systems, and AI-powered applications.
+I'm a **Full Stack Developer** who enjoys building practical products, scalable systems, and AI-powered applications.
 
 * 🔭 Currently building **TaskFlow** — a distributed background job processing platform
 * 🤖 Building **Nirogi AI** — a multilingual healthcare AI agent
 * 🌱 Currently learning **Next.js, TypeScript, System Design & Cloud**
 * 💻 Interested in **Full Stack Development, Distributed Systems & AI**
 * 🧩 250+ **LeetCode** problems solved
-* ♟️ Competitive chess player and college tournament participant
+* ♟️ I enjoy playing chess and have represented my college in inter-college tournaments
 * 📍 Bengaluru, India
 
 ---
 
-## 🚀 Currently Building
+## 🚀 What I'm Building
 
-### ⚙️ TaskFlow — Distributed Task Processing Platform
+### ⚙️ TaskFlow
 
-A distributed background job processing system built with **Go, Redis and Docker**.
+**Distributed Background Job Processing Platform**
 
-**Features:**
+A distributed task processing system built with **Go, Redis and Docker**.
+
+**Highlights**
 
 * Concurrent worker pool
 * Asynchronous job processing
@@ -46,27 +43,42 @@ A distributed background job processing system built with **Go, Redis and Docker
 * Job lifecycle tracking
 * Graceful shutdown
 * Structured logging
-* CI with GitHub Actions
+* GitHub Actions CI
 
-🔗 **[Live Demo](https://taskflow-go-tau.vercel.app/)**
-🔗 **[Source Code](https://github.com/parthgupta812/taskflow-go)**
+<p>
+<a href="https://taskflow-go-tau.vercel.app/">
+  <img src="https://img.shields.io/badge/Live%20Demo-Visit%20Project-2ea44f?style=for-the-badge" />
+</a>
+<a href="https://github.com/parthgupta812/taskflow-go">
+  <img src="https://img.shields.io/badge/Source%20Code-GitHub-181717?style=for-the-badge&logo=github" />
+</a>
+</p>
 
 ---
 
-### 🤖 Nirogi AI — Multilingual Healthcare AI Agent
+### 🤖 Nirogi AI
 
-An AI-powered healthcare assistant designed to provide multilingual health information using **Flask, Gemini API and WHO APIs**.
+**Multilingual Healthcare AI Agent**
 
-**Features:**
+An AI-powered healthcare assistant built with **Flask, Gemini API and WHO APIs**.
+
+**Highlights**
 
 * English & Hindi support
 * AI-powered conversational interface
 * Context-aware prompting
 * Healthcare API integration
-* Modular REST API architecture
+* Modular REST APIs
+* Low-latency AI interactions
 
-🔗 **[Live Demo](https://nirogiai.netlify.app/)**
-🔗 **[Source Code](https://github.com/parthgupta812/NIROGI)**
+<p>
+<a href="https://nirogiai.netlify.app/">
+  <img src="https://img.shields.io/badge/Live%20Demo-Visit%20Project-2ea44f?style=for-the-badge" />
+</a>
+<a href="https://github.com/parthgupta812/NIROGI">
+  <img src="https://img.shields.io/badge/Source%20Code-GitHub-181717?style=for-the-badge&logo=github" />
+</a>
+</p>
 
 ---
 
@@ -74,35 +86,55 @@ An AI-powered healthcare assistant designed to provide multilingual health infor
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-<h3 align="center">TaskFlow</h3>
+### ⚙️ TaskFlow
 
-<p align="center">
-  <a href="https://github.com/parthgupta812/taskflow-go">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=parthgupta812&repo=taskflow-go&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
+Distributed background job processing platform using **Go, Redis and Docker**.
 
-<p align="center">
-Distributed background job processing platform built with Go, Redis and Docker.
-</p>
+**Tech:** Go • Redis • Docker • GitHub Actions
+
+<a href="https://github.com/parthgupta812/taskflow-go">
+View Repository →
+</a>
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-<h3 align="center">Nirogi AI</h3>
+### 🤖 Nirogi AI
 
-<p align="center">
-  <a href="https://github.com/parthgupta812/NIROGI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=parthgupta812&repo=NIROGI&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
+Multilingual healthcare AI agent powered by **Flask, Gemini API and WHO APIs**.
 
-<p align="center">
-Multilingual healthcare AI agent powered by Flask, Gemini API and WHO APIs.
-</p>
+**Tech:** Python • Flask • Gemini API • WHO API
+
+<a href="https://github.com/parthgupta812/NIROGI">
+View Repository →
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🔗 URL Shortener
+
+Scalable URL shortening service with **Redis caching, PostgreSQL indexing, rate limiting and analytics**.
+
+**Tech:** Flask • PostgreSQL • Redis • Docker
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🌐 More Projects
+
+Explore my GitHub repositories for additional full-stack, backend and systems projects.
+
+<a href="https://github.com/parthgupta812?tab=repositories">
+View All Repositories →
+</a>
 
 </td>
 </tr>
@@ -130,16 +162,10 @@ Multilingual healthcare AI agent powered by Flask, Gemini API and WHO APIs.
 <img src="https://skillicons.dev/icons?i=nodejs,express,flask" />
 </p>
 
-### Databases & Infrastructure
+### Databases & Tools
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=postgres,redis,mongodb,docker,linux,git" />
-</p>
-
-### AI & APIs
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,flask" />
 </p>
 
 ---
@@ -147,13 +173,8 @@ Multilingual healthcare AI agent powered by Flask, Gemini API and WHO APIs.
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=parthgupta812&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthgupta812&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" />
-</p>
-
-<p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=parthgupta812&theme=tokyonight" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=parthgupta812&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=parthgupta812&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthgupta812&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" />
 </p>
 
 ---
@@ -161,55 +182,24 @@ Multilingual healthcare AI agent powered by Flask, Gemini API and WHO APIs.
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=parthgupta812&theme=tokyo-night&hide_border=true&area=true&custom_title=Parth's%20Contribution%20Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=parthgupta812&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" width="100%" />
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+## 📌 GitHub Profile
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=parthgupta812&theme=tokyonight&hide_border=true" />
+
+<a href="https://github.com/parthgupta812?tab=repositories">
+  <img src="https://img.shields.io/badge/Repositories-View%20All-181717?style=for-the-badge&logo=github" />
+</a>
+
+<a href="https://github.com/parthgupta812?tab=stars">
+  <img src="https://img.shields.io/badge/Stars-View%20Stars-181717?style=for-the-badge&logo=github" />
+</a>
+
 </p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=parthgupta812&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=6" />
-</p>
-
----
-
-## 💻 Competitive Programming
-
-<p align="center">
-  <a href="https://leetcode.com/parthgupta__7/">
-    <img src="https://img.shields.io/badge/LeetCode-250%2B%20Problems-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
-  </a>
-  <a href="https://github.com/parthgupta812">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
----
-
-## 🎓 Education
-
-**Manipal Institute of Technology, Bengaluru**
-B.Tech in Computer Science Engineering • CGPA: 8.07
-
-**Indian Institute of Technology Madras**
-BS in Data Science and Applications
-
----
-
-## 📜 Certifications
-
-* Cisco CCNA — Introduction to Networks
-* Cisco CCNA — Switching, Routing & Wireless Essentials
-* Cisco CCNA — Enterprise Networking, Security & Automation
 
 ---
 
@@ -219,16 +209,16 @@ BS in Data Science and Applications
   <a href="https://linkedin.com/in/parthgupta121">
     <img src="https://skillicons.dev/icons?i=linkedin" width="45" />
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://leetcode.com/parthgupta__7/">
     <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="45" />
-  </a>
-  &nbsp;
-  <a href="mailto:parth23348134@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="45" />
   </a>
 </p>
 
 <p align="center">
-  <b>Thanks for visiting my profile! ⭐</b>
+📧 <strong>parth23348134@gmail.com</strong>
+</p>
+
+<p align="center">
+  <i>Thanks for visiting my profile! ⭐</i>
 </p>
