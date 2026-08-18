@@ -235,22 +235,19 @@ View All Repositories →
 ## 🤝 Connect With Me
 
 <p align="center">
-
-<a href="https://linkedin.com/in/parthgupta121">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="45" alt="LinkedIn" />
-</a>
-
-  
-
-<a href="https://leetcode.com/parthgupta__7/">
-  <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="45" alt="LeetCode" />
-</a>
-
+  <a href="https://linkedin.com/in/parthgupta121">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://leetcode.com/parthgupta__7/">
+    <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="45" alt="LeetCode" />
+  </a>
 </p>
 
 <p align="center">
-📧 <strong>parth23348134@gmail.com</strong>
+  📧 <strong>parth23348134@gmail.com</strong>
 </p>
+
 
 ---
 
